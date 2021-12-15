@@ -4,6 +4,7 @@
     background-image: url("../assets/img/Cover.png");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     text-align: center;
     align-items: center;
 }
@@ -13,7 +14,6 @@
     text-align: center;
     position: relative;
     top: 50px;
-    font-family: 'Roboto mono', monospace;
     font-size: 30px;
     text-align: center;
     letter-spacing: 10px;
